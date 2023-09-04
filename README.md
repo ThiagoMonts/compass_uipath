@@ -36,10 +36,10 @@ Neste curso não foi utilizada nenhuma tecnologia específica, podendo ser aplic
 
 ## 📜 Certificado
 
-Conclusão do Curso:   /  /2023
+Conclusão do Curso: 01/09/2023
 
 <p align="center">
-  <img alt="certificado" src=".github/" width="100%">
+  <img alt="certificado" src=".github/Certificado - Thiago Honorato da Silva.png" width="100%">
 </p>
 <br>
 
