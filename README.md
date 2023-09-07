@@ -13,12 +13,6 @@ O curso começa mostrando como é a plataforma UiPath, apresentando o ecossistem
 <br>
 
 <p align="center">
-  <img alt="capa" src=".github/capa.jpg" width="40%">
-</p>
-
-<br>
-
-<p align="center">
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-certificado">📜 Certificado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">:memo: Licença</a>
